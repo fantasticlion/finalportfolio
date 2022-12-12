@@ -79,7 +79,7 @@ function App() {
           width="300" height="300" padding="1000"></img>
         <h2>&nbsp;About me:</h2>
         
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a student at Brown taking CS 1300 UIUX this semester.</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a student at Brown taking CS 1300 UIUX this semester. My theme/character in this portfolio is my strong skills of user interface and user experience.</p>
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my free time, I enjoy doing a lot of things but I don't think I'm allowed to say them here because I should keep myself anonymous. So all you have to know is that I'm a fantastic lion coming from Pride Land. My name is Simpa and I am the friend of Simba.</p>
       </div>
       <h2>&nbsp;My Projects:</h2>
