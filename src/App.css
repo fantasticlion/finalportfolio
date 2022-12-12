@@ -1,0 +1,138 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: #d3f3ff;
+  margin: 0.5em;
+}
+
+p {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4em;
+  color:rgb(164, 0, 0);
+}
+
+h2 {
+  color:rgb(128, 53, 1);
+  font-size: 2em;
+  margin-top: 5em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  color:rgb(1, 94, 23);
+  font-size: 2em;
+}
+
+li {
+  font-size: 1.2em;
+  margin-bottom: 0.75em;
+  font-weight: 550;
+  line-height: 1.75em;
+}
+
+.favorites {
+  position: fixed;
+  right: 0;
+}
+
+.favorites input{
+  margin-bottom: 0.9em;
+}
+
+.favorites button {
+  font-size: 1.2em;
+  font-weight: bold;
+  background-color: rgb(224, 183, 102);
+  border-color: black;
+  border-width: 0.15em;
+  border-radius: 1em;
+  margin-top: 1em;
+  padding: 0.5em 1em;
+}
+
+.product {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  background-color:rgb(178, 195, 254);
+  width: 60em;
+  margin: 3em;
+  margin-left: 12.5em;
+  padding: 2em;
+  border-radius: 1.5em;
+}
+
+.intro img {
+  float: right;
+}
+
+.item img {
+  float: left;
+  max-width: 55em;
+  max-height: 55em;
+  object-fit: cover;
+  margin-right: 4em;
+}
+
+.item button {
+  font-size: 1.2em;
+  font-weight: bold;
+  background-color: rgb(183, 231, 255);
+  border-color:rgb(0, 0, 0);
+  border-width: 0.18em;
+  border-radius: 1em;
+  padding: 0.5em 1em;
+  margin-top: 1em;
+  margin-right: 1em;
+  float: right;
+}
+
+.frame {
+  width: 55em;
+  height: 27em;
+  background: rgb(127, 127, 127);
+  margin: auto;
+  border-radius: 1em;
+  padding: 0.9em 0.9em;
+}
+
+.resume {
+  width: 43.7em;
+  height: 56.6em;
+  background: rgb(0, 107, 48);
+  margin: auto;
+  border-radius: 1em;
+  padding: 1.2em 1.2em;
+  margin-bottom: 10em;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+
+a:active {
+  text-decoration: none;
+}
